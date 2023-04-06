@@ -1,1 +1,2 @@
 # BITECHUJIHOUSIJIE
+BITE后半部分的代码
